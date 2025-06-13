@@ -1,0 +1,64 @@
+	h1{
+		text-align:center;
+		color:red;	
+		padding:20px;
+		border-radius:40px;	
+	}
+	div{
+		width:250px;
+		height:200px;
+		text-align:center;
+		padding:50px;
+		border-radius:70px;
+	}
+
+	#cajaNegra{
+		color:white;
+		background-color:black;
+		float:left;
+	}
+	
+	#cajaNegra img{
+		width:250px;	
+		height:200px;	
+		border-radius:40px;	
+	}
+	
+	#cajaAzul{
+		color:white;
+		background-color:blue;
+		float:right;
+	}
+	
+	#cajaVerde{
+		color:white;
+		background-color:green;	
+		float:left;
+		clear:left;
+	}
+	
+	#cajaRoja{
+		color:white;
+		background-color:red;
+		float:right;
+	}
+
+	#cajaMorada{
+		color:white;
+		background-color:purple;
+		float:left;		
+		clear:left;
+	}
+	
+	#cajaMorada img{
+		width:250px;	
+		height:200px;	
+		border-radius:40px;	
+	}
+	
+	#cajaRosa{
+		color:white;
+		background-color:#ff69c1;	
+		float:right;	
+	}
+	
